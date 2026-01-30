@@ -180,8 +180,6 @@ Actual Result
 
 Status
 
-Defect lifecycle followed:
-New → Open → Fixed → Retest → Closed / Reopened
 
 12. Sample Defects
 
