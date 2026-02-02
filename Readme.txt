@@ -187,11 +187,6 @@ User able to book appointment for past date
 
 Appointment status not updated after cancellation
 
-13. Tools Used
-
-MS Excel / Google Sheets – Test Case Management & Defect Tracking
-
-Google Chrome – Test Execution
 
 14. Conclusion
 
