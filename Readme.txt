@@ -79,8 +79,6 @@ Regression Testing
 
 UI Testing
 
-Boundary Value Testing
-
 Negative Testing
 
 
