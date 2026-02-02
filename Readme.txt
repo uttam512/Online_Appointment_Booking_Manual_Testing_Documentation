@@ -2,11 +2,13 @@ Online Appointment Booking System – Manual Testing
 
 1. Project Objective
 
-The objective of this project is to perform manual testing of an online appointment booking system to ensure that users can search services/doctors, book appointments, reschedule or cancel bookings, and manage appointments smoothly. The project focuses on validating business logic, user workflows, and system reliability.
+The objective of this project is to perform manual testing of an online appointment booking system to ensure that users can search services/doctors, book appointments, reschedule or cancel bookings, and manage appointments smoothly. 
+The project focuses on validating business logic, user workflows, and system reliability.
 
 2. Application Overview
 
-The Online Appointment Booking System allows users to book appointments for services such as doctor consultations or other professional services. Users can select a service, choose an available date and time slot, confirm appointments, and manage their bookings through the application.
+The Online Appointment Booking System allows users to book appointments for services such as doctor consultations or other professional services. 
+Users can select a service, choose an available date and time slot, confirm appointments, and manage their bookings through the application.
 
 3. Scope of Testing
 In Scope:
